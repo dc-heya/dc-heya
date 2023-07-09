@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dhwani
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python
+- 📫 Reach me through mail- dhwani.chiya@gmail.com
