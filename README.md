@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning python<br>⚡ Fun fact I love clicking random pics
+🌱 I’m currently learning python<br>⚡ Fun fact I love clicking random pics
 
 
 # 💻 Tech Stack:
